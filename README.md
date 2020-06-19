@@ -1,1 +1,2 @@
-# ohlite.github.io
+# YG studio 7
+ygstudio7.github.io
